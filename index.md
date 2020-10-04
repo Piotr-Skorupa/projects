@@ -3,7 +3,8 @@
 Some info.
 
 ### Projects
- Projects list.
+
+ [Czujnik jakości powietrza oparty o Raspberry Pi Zero](https://piotr-skorupa.github.io/projects/air-quality-sensor)
 
 ...
 
