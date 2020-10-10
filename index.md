@@ -1,10 +1,10 @@
-## Welcome to my projects overview
+## Przegląd projektów
 
-Some info.
+Przydatne projekty osobiste do użytku publicznego.
 
-### Projects
+### Projekty:
 
- [Czujnik jakości powietrza oparty o Raspberry Pi Zero](https://piotr-skorupa.github.io/projects/air-quality-sensor)
+ 1. [Czujnik jakości powietrza oparty o Raspberry Pi Zero](https://piotr-skorupa.github.io/projects/air-quality-sensor)
 
 ...
 
