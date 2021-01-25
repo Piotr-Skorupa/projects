@@ -3,7 +3,7 @@ layout: post
 title: Czujnik jakości powietrza
 ---
 
-# Czujnik jakości powietrza
+## Wstęp
 
 Opisany tutaj czujnik służy do monitorowania jakości powietrza w pomieszczeniu. Przy odpowiednim zabezpieczeniu i pewnych drobnych zmianach może być również stosowany na otwartej przestrzeni. Projekt zbudowany został na platformie RaspberryPi Zero i napisany w języku C++. Kod źródłowy znajduje się tutaj https://github.com/Piotr-Skorupa/air-quality-sensor
 Projekt jest gotowy do zbudowania i zawiera wszelkie instrukcje potrzebne do wystartowania własnego czujnika jakości powietrza. Bardziej zainteresowanych zapraszam do krótkiej lektury na temat tworzenia oprogramowania do czujników na Raspberry Pi Zero opartej na tym projekcie.
